@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<h1 align="center">Curriculum Vitae</h1>
 
 Education
 ======
@@ -39,7 +40,7 @@ Programming skills
 * Python, R, SAS, SQL (MSSQL, PostgreSQL), Git, Docker, OMOP common data model and analytics, Linux server management
 
 
-Infrastructure & Computing
+Exprience in infrastructure & computing
 ======
 * Experience in operating and managing high-performance GPU servers **(NVIDIA A100(4), RTX3090(8), A6000(2), Titan X(8)) and high-capacity storage systems support multi-user I/O** for large-scale EHR, omics, and image data
 
