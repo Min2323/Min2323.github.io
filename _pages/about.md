@@ -10,7 +10,7 @@ Hello, I’m **Min Ho**, a PhD candidate in Biomedical Informatics at Ajou Unive
 
 I majored in **life sciences and minored in computer science** during my undergraduate studies. Initially, I was deeply interested in drug discovery and believed that becoming a medical doctor would bring me closer to developing new therapies by treating real patients.
 
-While I found clinical practice rewarding, I gradually realized that through research, I could help not just individual patients, but potentially many more people. This led me to pursue a PhD in biomedical informatics, where **I aim to fulfill the promise of precision medicine by harnessing the vast, diverse data generated in hospitals.**
+While I found clinical practice rewarding, I gradually realized that through research, I could help not just individual patients, but potentially many more people. This led me to pursue a PhD in biomedical informatics, where **I aim to fulfill the promise of precision medicine by harnessing the vast and diverse data generated in hospitals.**
 
 My research goal is **to integrate clinical data science, pharmacoepidemiology, and medical AI to develop frameworks that advance precision medicine by combining diverse modality of biological and clinical data.** I hope to support better, more personalized decisions in patient care.
 
