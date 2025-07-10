@@ -55,11 +55,11 @@ Grant/project experience
 * Physician-Scientist Training Program (Full-Time PhD Support) (Korea Health Industry Development Institute (KHIDI) Korea, 2023-2025, Total $ 170,000 for three years)<br> 
 --> Principal investigator
 
-* Physician-Scientist Training Program at Ajou University Hospital Korea, 2024-2025, Total$ 22,500 for two years
--->Principal investigator
+* Physician-Scientist Training Program at Ajou University Hospital Korea, 2024-2025, Total$ 22,500 for two years<br> 
+--> Principal investigator
 
 * Development of a Draft Guideline for Evaluating the Safety and Effectiveness of Pharmaceuticals Using Domestic Real-World Evidence (RWE), 2025~ (KFDA, PI: Dr Rae Woong Park)<br> 
--->Conceptualization, writing a grant document with PI, contact person
+--> Conceptualization, writing a grant document with PI, contact person
 
 * Health Scholarship Society Academic Research Grant in Korea, 2018 Total $ 7,500 for a year <br>
 --> Principal Investigator
@@ -106,13 +106,13 @@ Professional society memberships
 
 AWARDS
 ======
-* Best Paper Award (2024)<br>
+* **Best Paper Award (2024)**<br>
 by the Korean Society of Medical Informatics
-* People Who Brightened Korea, nominated twice (2021, 2023)<br> 
+* **People Who Brightened Korea, nominated twice (2021, 2023)**<br> 
 By Biological Research Information Center (BRIC)
-*	Ajou University Presidential Award (2020) <br>
+*	**Ajou University Presidential Award (2020)** <br>
 by Dean of Ajou University 
-* Korea’s Future Leader Award (Korea Talent Award, 2019)<br>
+* **Korea’s Future Leader Award (Korea Talent Award, 2019)**<br>
 Ministry of Education, Republic of Korea
 
 
