@@ -12,7 +12,7 @@ I majored in **life sciences and minored in computer science** during my undergr
 
 While I found clinical practice rewarding, I gradually realized that through research, I could help not just individual patients, but potentially many more people. This led me to pursue a PhD in biomedical informatics, where **I aim to realize the promise of precision medicine by leveraging the vast and diverse data generated in hospitals.**
 
-My research goal is **to integrate clinical data science, pharmacoepidemiology, and medical AI to develop frameworks that advance precision medicine by combining real-world electronic health records with multi-omics data.** I hope to support better, more personalized decisions in patient care.
+My research goal is **to integrate clinical data science, pharmacoepidemiology, and medical AI to develop frameworks that advance precision medicine by combining diverse modality of biological and clinical data.** I hope to support better, more personalized decisions in patient care.
 
 **I’m continuing to learn and grow in this field, with the hope that my work can contribute to improving the lives of patients through data-driven, human-centered innovation in medicine.**
 
