@@ -42,7 +42,7 @@ Programming skills
 
 Exprience in infrastructure & computing
 ======
-* Experience in operating and managing high-performance GPU servers **(NVIDIA A100(4), RTX3090(8), A6000(2), Titan X(8)) and high-capacity storage systems support multi-user I/O** for large-scale EHR, omics, and image data
+* Experience in operating and managing high-performance GPU servers **(NVIDIA A100(4), RTX3090(8), A6000(2), Titan X(8)) and high-capacity storage systems support multi-user I/O** for large-scale EHR, omics data
 
 Experienced datasets
 ======
