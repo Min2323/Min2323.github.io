@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "cold-spring.jpg"
-  name             : "Taken at Cold Spring Harbor in 2023"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : "Medical doctor and researcher at Ajou University, seeking to bridge medicine and technology"
   location         : "Suwon, South Korea"
