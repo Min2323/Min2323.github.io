@@ -14,7 +14,6 @@ Education
 ======
 * Ph.D. in Biomedical Informatics, Ajou University School of Medicine, 2020–present<br> 
 (Advisor: Prof. Rae Woong Park) <br>
-***Thesis: Development of a large language model-powered electronic health record summarization and note charting agent***
 * M.D., Ajou University School of Medicine, 2020
 * B.S. in Life Science (Summa cum laude, minors in CS & EE), Handong Global University, 2016
 
@@ -125,7 +124,7 @@ Ongoing Projects
 [5]  An MH, Kim YS, Jang JH, Park RW, **Development of a Digital Twin Model for Patients with Atrial Fibrillation (Ongoing)**<br><br>
 [6]  Jang JH, An MH, Kim YS, Park RW, **Effect of Statin Therapy on Stroke Incidence in Patients with Atrial Fibrillation: A Nationwide Cohort Study in South Korea (Ongoing)**<br><br>
 [7]  An MH, Jung YM, Pyun JH, Hong SJ, **Integration of Bulk RNA Sequencing with PSA and PHI Values for Stratification of Prostate Cancer Aggressiveness (Ongoing)**<br><br>
-
+[8]  An MH, M-K Kim, Park RW, **LLM‑Powered Electronic Health Record Agent for Patient Summaries, Automated Charting, and Real‑Time Clinical Guidance (Ongoing)**<br><br>
 
 
 Main author publications 
