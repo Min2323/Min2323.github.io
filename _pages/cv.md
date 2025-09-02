@@ -14,7 +14,7 @@ Education
 ======
 * Ph.D. in Biomedical Informatics, Ajou University School of Medicine, 2020–present<br> 
 (Advisor: Prof. Rae Woong Park) <br>
-* M.D., Ajou University School of Medicine, 2020
+* M.D. Ajou University School of Medicine, 2020
 * B.S. in Life Science (Summa cum laude, minors in CS & EE), Handong Global University, 2016
 
 Fields
@@ -65,6 +65,12 @@ Grant/project experience
 
 * SoGROWTH: Real-world treatment patterns and outcomes of recombinant human GROWTH hormone (Somatropin) in pediatric patients in Korea (from IQVIA)<br>
 --> Analyst
+
+* Establishment of Governance and Operational System for Building Infectious Disease Clinical Research Data Platform, 2025–2026 (Korea Disease Control and Prevention Agency, GFID, Total $111,000 for one year)<br>
+--> Main draft writing on proposal  
+
+* Development of Core Technologies for Time-Sequential Language Modeling and Automated Summarization of Korean Electronic Medical Records, 2025–2027 (National Research Foundation of Korea, Total $111,000 for three years)<br>
+--> Main draft writing & major contribution (PhD thesis project)
 
 Teaching experience
 ======
@@ -117,28 +123,28 @@ Ministry of Education, Republic of Korea
 
 Ongoing Projects
 ======
-[1]  An MH, Kim M-K, Lee DY, Park RW et al, **Public Perception and Changing Attitudes Toward Antidepressants over a Decade in social media: Lessons Learned from Online Discussion using Artificial Intelligence (In revision)**<br><br>
-[2]  An MH, Kim C, Min K, Yi KH, Park RW, Jung M., **Survival Outcomes after Monitoring, Surgery, or Radiotherapy for Clinically Localized Prostate Cancer: Target Trial Emulation (Under review)**<br><br>
-[3]  Lee SH, An MH, Park RW, Park SS, **Statin Use and Survival Outcomes in Colorectal Cancer Patients with Hepatic Steatosis Evaluated by Fatty Liver Index: A Nationwide Cohort Study (Under review)**<br><br>
-[4]  An MH, Kim JC & Park SS* et al, **Spatial Anatomy of Vitiligo and Its Association with Treatment Resistance in Acral and Truncal Lesions (Ongoing)**<br><br>
-[5]  An MH, Kim YS, Jang JH, Park RW, **Development of a Digital Twin Model for Patients with Atrial Fibrillation (Ongoing)**<br><br>
-[6]  Jang JH, An MH, Kim YS, Park RW, **Effect of Statin Therapy on Stroke Incidence in Patients with Atrial Fibrillation: A Nationwide Cohort Study in South Korea (Ongoing)**<br><br>
-[7]  An MH, Jung YM, Pyun JH, Hong SJ, **Integration of Bulk RNA Sequencing with PSA and PHI Values for Stratification of Prostate Cancer Aggressiveness (Ongoing)**<br><br>
-[8]  An MH, M-K Kim, Park RW, **LLM‑Powered Electronic Health Record Agent for Patient Summaries, Automated Charting, and Real‑Time Clinical Guidance (Ongoing)**<br><br>
+[1]  An MH, Kim C, Min K, Yi KH, Park RW, Jung M., **Survival Outcomes after Monitoring, Surgery, or Radiotherapy for Clinically Localized Prostate Cancer: Target Trial Emulation (Under review)**<br><br>
+[2]  Lee SH, An MH, Park RW, Park SS, **Statin Use and Survival Outcomes in Colorectal Cancer Patients with Hepatic Steatosis Evaluated by Fatty Liver Index: A Nationwide Cohort Study (In revision)**<br><br>
+[3]  An MH, Kim JC & Park SS* et al, **Spatial Anatomy of Vitiligo and Its Association with Treatment Resistance in Acral and Truncal Lesions (Ongoing)**<br><br>
+[4]  An MH, Kim YS, Jang JH, Park RW, **Development of a Digital Twin Model for Patients with Atrial Fibrillation (Ongoing)**<br><br>
+[5]  Jang JH, An MH, Kim YS, Park RW, **Effect of Statin Therapy on Stroke Incidence in Patients with Atrial Fibrillation: A Nationwide Cohort Study in South Korea (Ongoing)**<br><br>
+[6]  An MH, Jung YM, Pyun JH, Hong SJ, **Integration of Bulk RNA Sequencing with PSA and PHI Values for Stratification of Prostate Cancer Aggressiveness (Ongoing)**<br><br>
+[7]  An MH, M-K Kim, Park RW, **LLM‑Powered Electronic Health Record Agent for Patient Summaries, Automated Charting, and Real‑Time Clinical Guidance (Ongoing)**<br><br>
 
 
 Main author publications 
 ======
-[1]  Park C, An MH, Hwang G, Park RW, An J et al, **Clinical Performance and Communication Skills of ChatGPT Versus Physicians in Emergency Medicine: Simulated Patient Study**, JMIR Med Inform, 2025, doi:10.2196/68409<br><br>
-[2]  Kang S-W, An MH, Ha S, et al. **Association between gastroesophageal reflux disease and tinnitus in a nationwide population-based cohort study.** Scientific Reports. 2024;14(1):30106. doi:10.1038/s41598-024-81658-7<br><br>
-[3]  Kim S, An MH, Lee DY, et al. **Impact of the Early COVID-19 Pandemic on Suicide Attempts and Suicide Deaths in South Korea, 2016-2020: An Interrupted Time Series Analysis.** Psychiatry Investig. Sep 2024;21(9):1007-1015. doi:10.30773/pi.2024.0089<br><br>
-[4]  Cho E, An MH, Lee YS, et al. **Development of chimeric antigen receptor (CAR)-T cells targeting A56 viral protein implanted by oncolytic virus.** iScience. 2024;27(3)doi:10.1016/j.isci.2024.109256<br><br>
-[5]  An MH, Kim MS, Kim C, et al. **Association of 5α-Reductase Inhibitor Prescription With Bladder Cancer Progression in Males in South Korea.** JAMA Network Open. 2023;6(5):e2313667-e2313667. doi:10.1001/jamanetworkopen.2023.13667<br><br>
-[6]  Yi K-H, An MH, Lee J-H, Lee H-J. **Intramuscular neural distribution of the obturator internus muscle regarding injective treatment. Surgical and Radiologic Anatomy.** 2023;45(10):1239-1244. doi:10.1007/s00276-023-03216-6<br><br>
-[7]  An MH, You SC, Park RW, Lee S. **Using an Extended Technology Acceptance Model to Understand the Factors Influencing Telehealth Utilization After Flattening the COVID-19 Curve in South Korea: Cross-sectional Survey Study.** JMIR Med Inform. 2021;9(1):e25435. doi:10.2196/25435<br><br>
-[8]  Kim MS, An MH, Kim WJ, Hwang T-H. **Comparative efficacy and safety of pharmacological interventions for the treatment of COVID-19: A systematic review and network meta-analysis.** PLOS Medicine. 2021;17(12):e1003501. <br><br>
-[9]  An MH, Park SS, You SC, et al. **Depressive Symptom Network Associated With Comorbid Anxiety in Late-Life Depression.** Front Psychiatry. 2019;10:856. doi:10.3389/fpsyt.2019.00856<br><br>
-[10]  You SC, An MH, Yoon D, et al. **Rate control and clinical outcomes in patients with atrial fibrillation and obstructive lung disease.** Heart Rhythm. 2018;15(12):1825-1832. doi:https://doi.org/10.1016/j.hrthm.2018.06.044<br><br>
+[1]  An MH, Kim M-K, Lee DY, Park RW et al, **Public Perception and Changing Attitudes Toward Antidepressants over a Decade in social media: Lessons Learned from Online Discussion using Artificial Intelligence**, Plos One, 2025<br><br>
+[2]  Park C, An MH, Hwang G, Park RW, An J et al, **Clinical Performance and Communication Skills of ChatGPT Versus Physicians in Emergency Medicine: Simulated Patient Study**, JMIR Med Inform, 2025, doi:10.2196/68409<br><br>
+[3]  Kang S-W, An MH, Ha S, et al. **Association between gastroesophageal reflux disease and tinnitus in a nationwide population-based cohort study.** Scientific Reports. 2024;14(1):30106. doi:10.1038/s41598-024-81658-7<br><br>
+[4]  Kim S, An MH, Lee DY, et al. **Impact of the Early COVID-19 Pandemic on Suicide Attempts and Suicide Deaths in South Korea, 2016-2020: An Interrupted Time Series Analysis.** Psychiatry Investig. Sep 2024;21(9):1007-1015. doi:10.30773/pi.2024.0089<br><br>
+[5]  Cho E, An MH, Lee YS, et al. **Development of chimeric antigen receptor (CAR)-T cells targeting A56 viral protein implanted by oncolytic virus.** iScience. 2024;27(3)doi:10.1016/j.isci.2024.109256<br><br>
+[6]  An MH, Kim MS, Kim C, et al. **Association of 5α-Reductase Inhibitor Prescription With Bladder Cancer Progression in Males in South Korea.** JAMA Network Open. 2023;6(5):e2313667-e2313667. doi:10.1001/jamanetworkopen.2023.13667<br><br>
+[7]  Yi K-H, An MH, Lee J-H, Lee H-J. **Intramuscular neural distribution of the obturator internus muscle regarding injective treatment. Surgical and Radiologic Anatomy.** 2023;45(10):1239-1244. doi:10.1007/s00276-023-03216-6<br><br>
+[8]  An MH, You SC, Park RW, Lee S. **Using an Extended Technology Acceptance Model to Understand the Factors Influencing Telehealth Utilization After Flattening the COVID-19 Curve in South Korea: Cross-sectional Survey Study.** JMIR Med Inform. 2021;9(1):e25435. doi:10.2196/25435<br><br>
+[9]  Kim MS, An MH, Kim WJ, Hwang T-H. **Comparative efficacy and safety of pharmacological interventions for the treatment of COVID-19: A systematic review and network meta-analysis.** PLOS Medicine. 2021;17(12):e1003501. <br><br>
+[10]  An MH, Park SS, You SC, et al. **Depressive Symptom Network Associated With Comorbid Anxiety in Late-Life Depression.** Front Psychiatry. 2019;10:856. doi:10.3389/fpsyt.2019.00856<br><br>
+[11]  You SC, An MH, Yoon D, et al. **Rate control and clinical outcomes in patients with atrial fibrillation and obstructive lung disease.** Heart Rhythm. 2018;15(12):1825-1832. doi:https://doi.org/10.1016/j.hrthm.2018.06.044<br><br>
 
 
 Co-author publications 
